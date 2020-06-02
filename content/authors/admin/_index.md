@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:sebastian.rast@eui.eu".
+  link: "mailto:sebastian.rast@eui.eu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/seb_rast
