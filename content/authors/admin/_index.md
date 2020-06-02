@@ -48,7 +48,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/seb_rast
-- icon: Linkedin
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sebastian-rast-ba1113a8/
 
