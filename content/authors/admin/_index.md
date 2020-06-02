@@ -68,4 +68,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Economics at the European University Institute in Florence. My advisors are Evi Pappa and Leonardo Melosi. Currently, I am also a PhD Trainee in the Monetary Policy Strategy Division at the European Central Bank.
+I am a PhD candidate in Economics at the European University Institute in Florence. My advisors are Evi Pappa and Leonardo Melosi. 
+
+Currently, I am also a PhD Trainee in the Monetary Policy Strategy Division at the European Central Bank.
+
+My research interests include macroeconomics, monetary policy and applied macroeconometrics. 
