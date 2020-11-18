@@ -4,7 +4,6 @@ authors:
 - Evi Pappa
 - admin
 - Alejandro Vicondoa
-date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,8 +25,6 @@ abstract:
 summary: 
 
 tags:
-- Source Themes
-featured: false
 
 links:
 url_pdf: 
