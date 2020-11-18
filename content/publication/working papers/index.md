@@ -1,8 +1,7 @@
 ---
-title: "An example conference paper"
+title: "Monetary policy and household inflation expectations: the role of different types of policy announcements"
 authors:
 - admin
-- Robert Ford
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
