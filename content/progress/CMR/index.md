@@ -1,5 +1,5 @@
 ---
-title: "The effect of news about prices:  evidence from the Italian auto insurance marke"
+title: "The effect of news about prices:  evidence from the Italian auto insurance market"
 authors:
 - Marco Cosconati
 - Leonardo Melosi
