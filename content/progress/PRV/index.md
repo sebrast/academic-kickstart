@@ -1,10 +1,10 @@
 ---
 title: "Household’s debt and the heterogenous effects of persistent monetary shock"
 authors:
-- admin
 - Evi Pappa
+- admin
 - Alejandro Vicondoa
-date: "2020-11-18T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
