@@ -1,6 +1,5 @@
 ---
 title: Publications
-summary: hhhh
 
 # View.
 #   1 = List
