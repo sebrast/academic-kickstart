@@ -11,7 +11,7 @@ title = "Research"
 subtitle = ""
 
 [content]
-hsahfhjhfskh
+
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
