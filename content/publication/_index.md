@@ -19,7 +19,7 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 
-content:
+content: hhhh
   # Page type to display. E.g. post, talk, or publication.
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
