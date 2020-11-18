@@ -8,9 +8,9 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Research"
-subtitle = "work in progress"
+subtitle = ""
 
-[content]
+[content]  hhhhhh
 
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
