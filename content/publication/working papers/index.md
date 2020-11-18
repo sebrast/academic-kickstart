@@ -2,7 +2,7 @@
 title: "Monetary policy and household inflation expectations: the role of different types of policy announcements"
 authors:
 - admin
-date: "2013-07-01T00:00:00Z"
+date: "2020-11-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,10 +18,10 @@ publication_types: ["3"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Central banks have used various tools that aim at influencing expectations of economic agents. In this paper I distinguish between different types of monetary policy announcements and assess their impact on household inflation expectations. The analysis is based on micro data from a survey of German households and exploits within month variation of interview dates to estimate the effect of monetary policy surprises on household expectations. I find that contractionary policy rate surprises lead to a quick and significant reduction in household inflation expectations while forward guidance and quantitative easing surprises have only small or insignificant effects. Moreover, there is heterogeneity in the responsiveness across demographic characteristics and the level of informedness of households. My results suggest that overall there is considerable inattention of households to monetary policy but with important differences across types of announcements. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Central banks have used various tools that aim at influencing expectations of economic agents. In this paper I distinguish between different types of monetary policy announcements and assess their impact on household inflation expectations. The analysis is based on micro data from a survey of German households and exploits within month variation of interview dates to estimate the effect of monetary policy surprises on household expectations. I find that contractionary policy rate surprises lead to a quick and significant reduction in household inflation expectations while forward guidance and quantitative easing surprises have only small or insignificant effects. Moreover, there is heterogeneity in the responsiveness across demographic characteristics and the level of informedness of households. My results suggest that overall there is considerable inattention of households to monetary policy but with important differences across types of announcements. 
 
 tags:
 - Source Themes
@@ -62,12 +62,4 @@ projects:
 slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
