@@ -1,5 +1,5 @@
 ---
-title: "Household’s debt and the heterogenous effects of persistent monetary shock"
+title: "Uncovering the heterogenous effects of shocks to inflation expectations"
 authors:
 - Evi Pappa
 - admin
