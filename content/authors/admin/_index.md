@@ -73,6 +73,6 @@ user_groups:
 
 I am a PhD candidate in Economics at the European University Institute in Florence. My advisors are Evi Pappa and Leonardo Melosi. 
 
-During my PhD, I visited the University of California at Berkely and have been a PhD Trainee in the Monetary Policy Strategy Division at the European Central Bank.
+During my PhD, I visited the University of California at Berkeley and have been a PhD Trainee in the Monetary Policy Strategy Division at the European Central Bank.
 
 My research interests include macroeconomics, monetary policy and applied macroeconometrics. 
