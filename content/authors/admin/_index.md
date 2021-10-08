@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: European University Institute
-    year: ongoing
+    year: May 2022 (expected)
   - course: Visiting PhD student
     institution: University of California, Berkeley
     year: 2019
