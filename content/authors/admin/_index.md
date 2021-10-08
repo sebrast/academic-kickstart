@@ -77,4 +77,4 @@ During my PhD, I visited the University of California at Berkeley and have been 
 
 My research interests include macroeconomics, monetary policy, applied macroeconometrics and inflation expectations.
 
-<h1> I am on the 2021/2022 job market and will be available for interviews at the EJM and ASSA meetings. </h1>
+**I am on the 2021/2022 job market and will be available for interviews at the EJM and ASSA meetings.**
