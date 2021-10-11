@@ -28,7 +28,7 @@ tags:
 
 links: 
 - name: Draft coming soon
-  url: content/publication/JMP/JMP.pdf
+  url: content/publication/jmp/JMP.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
