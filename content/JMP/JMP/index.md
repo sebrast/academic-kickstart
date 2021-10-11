@@ -27,8 +27,7 @@ tags:
 
 
 links: 
--name: Coming soon
-url_pdf: 
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
