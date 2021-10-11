@@ -27,7 +27,8 @@ tags:
 
 
 links: 
-url_pdf: files/CV.pdf
+-name: Draft coming soon
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
