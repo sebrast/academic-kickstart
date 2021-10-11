@@ -1,7 +1,6 @@
 ---
 title: "Monetary policy and household inflation expectations: the role of different types of policy announcements"
 authors: ""
-
 date: "2021-10-01T00:00:00Z"
 doi: ""
 featured: true
