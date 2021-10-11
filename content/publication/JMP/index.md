@@ -27,7 +27,7 @@ tags:
 
 
 links: 
-url_pdf: files/JMP.pdf
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
