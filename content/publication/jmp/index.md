@@ -26,7 +26,7 @@ tags:
 
 
 links: 
-- names: Draft coming soon
+- name: Draft coming soon
 url_pdf: 
 url_code: ''
 url_dataset: ''
