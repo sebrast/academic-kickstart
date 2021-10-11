@@ -28,7 +28,7 @@ tags:
 
 links: 
 - name: Draft coming soon
-  url: jmp/JMP.pdf
+  url: files/CV.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
