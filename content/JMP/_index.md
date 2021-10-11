@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: JMP
 
 # View.
 #   1 = List
