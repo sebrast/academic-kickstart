@@ -1,5 +1,5 @@
 ---
-title: JMP
+title: jmp
 
 # View.
 #   1 = List
