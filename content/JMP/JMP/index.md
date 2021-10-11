@@ -27,7 +27,7 @@ tags:
 
 
 links: 
-url_pdf: ''
+url_pdf: files/CV.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
