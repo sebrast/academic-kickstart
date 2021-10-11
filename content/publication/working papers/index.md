@@ -26,8 +26,8 @@ summary: Central banks have used various tools that aim at influencing expectati
 tags:
 
 
-links: files/JMP.pdf
-url_pdf: 
+links: ''
+url_pdf: files/CV.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
