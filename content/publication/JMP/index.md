@@ -28,6 +28,7 @@ tags:
 
 links: 
 - name: Draft coming soon
+- url: jmp/JMP.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -36,6 +37,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
