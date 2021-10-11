@@ -18,7 +18,7 @@ organizations:
   url: "https://www.eui.eu/DepartmentsAndCentres/Economics"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include macroeconomics, monetary policy and applied macroeconometrics. 
+bio: My research interests include macroeconomics, monetary policy, applied macroeconometrics and inflation expectations.
 
 # interests:
 # - Artificial Intelligence
