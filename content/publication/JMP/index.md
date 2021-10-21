@@ -1,5 +1,5 @@
 ---
-title: "Monetary policy and household inflation expectations: the role of different types of policy announcements"
+title: "Central Bank Communication with the General Public: Survey Evidence from Germany"
 authors: ""
 date: "2021-10-01T00:00:00Z"
 doi: ""
