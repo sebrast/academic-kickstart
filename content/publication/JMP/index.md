@@ -1,6 +1,7 @@
 ---
 title: "Central Bank Communication with the General Public: Survey Evidence from Germany"
-authors: admin
+authors: 
+- admin
 date: "2021-10-01T00:00:00Z"
 doi: ""
 featured: true
