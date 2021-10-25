@@ -28,7 +28,7 @@ tags:
 
 
 links: 
-- name: PDF
+- name: Draft
   url: publication/JMP/Rast_JMP.pdf
 url_pdf: 
 url_code: ''
