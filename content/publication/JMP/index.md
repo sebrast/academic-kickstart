@@ -27,7 +27,7 @@ tags:
 
 
 links: 
-- name: Draft coming soon
+- name: PDF
   url: publication/JMP/Rast_JMP.pdf
 url_pdf: 
 url_code: ''
