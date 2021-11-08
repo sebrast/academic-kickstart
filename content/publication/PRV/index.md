@@ -1,5 +1,5 @@
 ---
-title: "Uncovering the heterogenous effects of shocks to inflation expectations"
+title: "Uncovering the heterogenous effects of news shocks to underlying inflation"
 authors:
 - Evi Pappa
 - admin
@@ -7,7 +7,7 @@ authors:
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-10T00:00:00Z"
+publishDate: "2021-11-07T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
