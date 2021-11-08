@@ -1,5 +1,5 @@
 ---
-title: "Anchoring long-run inflation expectationsin a panel of professional forecasters"
+title: "Anchoring long-run inflation expectations in a panel of professional forecasters"
 authors: 
 - Jonas Fisher
 - Leonardo Melosi
