@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: 
+abstract: We use panel data from the US Survey of Professional Forecasters to estimate a model of individual forecaster behavior in an environment where inflation follows a trend-cycle stochastic process. Our model allows us to estimate forecasters' allocation of attention when learning about long-run inflation and how sensitive their long-run expectations are to incoming inflation and news about future inflation. We use our model of individual forecasters to study \emph{average} long-run inflation expectations. We find that short term changes in inflation have small effects on average expectations. News about future inflation has larger effects but they are still relatively small. These features of our estimated model provide an explanation for why the anchoring and subsequent de-anchoring of average inflation expectations over the period 1991 to 2020 were long lasting episodes. We use our estimated model to investigate the degree of inflation overshooting necessary to re-anchor average long term inflation expectations going forward from 2021Q3. We find the high inflation readings of mid-2021 must be followed by overshooting generally at the high end of Fed projections to re-anchor average inflation expectations to pre-Great Recession levels.
 
 
 # Summary. An optional shortened abstract.
