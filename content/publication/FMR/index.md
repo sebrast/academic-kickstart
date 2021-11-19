@@ -30,7 +30,8 @@ tags:
 
 
 links: 
-- name: Draft coming soon
+- name: Draft
+  url: publication/FMR/FMR_draft.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
