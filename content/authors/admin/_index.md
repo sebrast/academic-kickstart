@@ -75,8 +75,8 @@ I am a PhD candidate in Economics at the European University Institute in Floren
 
 During my PhD, I visited the University of California at Berkeley and have been a PhD Trainee in the Monetary Policy Strategy Division at the European Central Bank.
 
-My research interests include macroeconomics, monetary policy, applied macroeconometrics and inflation expectations. You can find my CV [here.](files/CV.pdf)
+In summer 2022, I will join De Nederlandsche Bank as a research economist. 
 
-**I am on the 2021/2022 job market and available for interviews.**
+My research interests include macroeconomics, monetary policy, applied macroeconometrics and inflation expectations. You can find my CV [here.](files/CV.pdf)
 
 
