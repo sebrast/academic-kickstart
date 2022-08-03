@@ -77,4 +77,4 @@ I obtained my PhD at the European University Institute in Florence under the sup
 
 My research interests include macroeconomics, monetary policy, applied macroeconometrics and inflation expectations. You can find my CV [here.](files/CV.pdf)
 
-
+Note: NONE of the material posted on this personal website necessarily represents the views of De Nederlandsche Bank or the Eurosystem.
