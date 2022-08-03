@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate in Economics
+role: Research Economist
 
 # Organizations/Affiliations
 organizations:
-- name: European University Institute
-  url: "https://www.eui.eu/DepartmentsAndCentres/Economics"
+- name: De Nederlandsche Bank
+  url: "https://www.dnb.nl"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include macroeconomics, monetary policy, applied macroeconometrics and inflation expectations.
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: European University Institute
-    year: May 2022 (expected)
+    year: May 2022
   - course: Visiting PhD student
     institution: University of California, Berkeley
     year: 2019
@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:sebastian.rast@eui.eu
+  link: mailto:s.g.rast@dnb.nl
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/seb_rast
@@ -71,11 +71,9 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Economics at the European University Institute in Florence. My advisors are Evi Pappa and Leonardo Melosi. 
+I am a Research Economist in the Monetary Policy Department at De Nederlandsche Bank.  
 
-During my PhD, I visited the University of California at Berkeley and have been a PhD Trainee in the Monetary Policy Strategy Division at the European Central Bank.
-
-In summer 2022, I will join De Nederlandsche Bank as a research economist. 
+I obtained my PhD at the European University Institute in Florence under the supervision of Evi Pappa and Leonardo Melosi. During my PhD, I visited the University of California at Berkeley and have been a PhD Trainee in the Monetary Policy Strategy Division at the European Central Bank.
 
 My research interests include macroeconomics, monetary policy, applied macroeconometrics and inflation expectations. You can find my CV [here.](files/CV.pdf)
 
