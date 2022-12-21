@@ -5,10 +5,11 @@ authors:
 - Falk Mazelis
 - admin
 doi: ""
+featured: true
 date: ""
  
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-10-22T00:00:00Z"
+publishDate: "2022-12-21T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,6 +22,7 @@ publication:
 publication_short: 
 
 abstract: 
+We provide evidence on how banks and non-bank financial intermediaries differ in their response to monetary policy. Our findings are based on a standard empirical macro model for the euro area, augmented with balance sheet data for banks and investment funds. The model is estimated via local projections, using high-frequency methods to identify different types of monetary policy shocks. Short-rate shocks lead to a significant balance sheet response of banks and investment funds, with a slightly swifter and more persistent reaction of banks. Long-rate shocks instead exert only short-lived effects on bank balance sheets, whereas investment fund balance sheets exhibit a stronger and more persistent response. The relative role of different types of financial intermediaries hence emerges as a relevant factor in shaping the transmission process for conventional and non-standard monetary policy measures.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -28,6 +30,8 @@ summary:
 tags:
 
 links:
+- name: Economics Letters
+  url: [publication/JMP/Rast_JMP.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0165176522003925#mmc1)
 url_pdf: 
 url_code: ''
 url_dataset: ''
