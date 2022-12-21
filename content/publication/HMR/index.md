@@ -31,7 +31,7 @@ tags:
 
 links:
 - name: Economics Letters
-  url: "https://www.sciencedirect.com/science/article/abs/pii/S0165176522003925#mmc1"
+  url: "https://www.dnb.nl"
 url_pdf: 
 url_code: ''
 url_dataset: ''
