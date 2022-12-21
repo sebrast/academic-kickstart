@@ -21,8 +21,7 @@ publication_types: ["2"]
 publication: 
 publication_short: 
 
-abstract: 
-We provide evidence on how banks and non-bank financial intermediaries differ in their response to monetary policy. Our findings are based on a standard empirical macro model for the euro area, augmented with balance sheet data for banks and investment funds. The model is estimated via local projections, using high-frequency methods to identify different types of monetary policy shocks. Short-rate shocks lead to a significant balance sheet response of banks and investment funds, with a slightly swifter and more persistent reaction of banks. Long-rate shocks instead exert only short-lived effects on bank balance sheets, whereas investment fund balance sheets exhibit a stronger and more persistent response. The relative role of different types of financial intermediaries hence emerges as a relevant factor in shaping the transmission process for conventional and non-standard monetary policy measures.
+abstract: We provide evidence on how banks and non-bank financial intermediaries differ in their response to monetary policy. Our findings are based on a standard empirical macro model for the euro area, augmented with balance sheet data for banks and investment funds. The model is estimated via local projections, using high-frequency methods to identify different types of monetary policy shocks. Short-rate shocks lead to a significant balance sheet response of banks and investment funds, with a slightly swifter and more persistent reaction of banks. Long-rate shocks instead exert only short-lived effects on bank balance sheets, whereas investment fund balance sheets exhibit a stronger and more persistent response. The relative role of different types of financial intermediaries hence emerges as a relevant factor in shaping the transmission process for conventional and non-standard monetary policy measures.
 
 # Summary. An optional shortened abstract.
 summary: 
