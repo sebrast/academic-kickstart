@@ -31,7 +31,7 @@ tags:
 
 links:
 - name: Economics Letters
-  url: [publication/JMP/Rast_JMP.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0165176522003925#mmc1)
+  url: href="https://www.sciencedirect.com/science/article/abs/pii/S0165176522003925#mmc1"
 url_pdf: 
 url_code: ''
 url_dataset: ''
