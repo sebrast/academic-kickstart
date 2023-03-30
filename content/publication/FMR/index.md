@@ -32,7 +32,7 @@ tags:
 
 links: 
 - name: Draft
-  # url: publication/FMR/FMR_draft.pdf
+  url: publication/FMR/FMR_draft.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
