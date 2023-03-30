@@ -1,10 +1,10 @@
 ---
-title: "Anchoring long-run inflation expectations in a panel of professional forecasters"
+title: "Long-run inflation expectations"
 authors: 
 - Jonas Fisher
 - Leonardo Melosi
 - admin
-date: "2021-11-01T00:00:00Z"
+date: "2023-03-30T00:00:00Z"
 doi: ""
 featured: false
 
@@ -20,7 +20,20 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We use panel data from the US Survey of Professional Forecasters to estimate a model of individual forecaster behavior in an environment where inflation follows a trend-cycle stochastic process. Our model allows us to estimate forecasters' allocation of attention when learning about long-run inflation and how sensitive their long-run expectations are to incoming inflation and news about future inflation. We use our model of individual forecasters to study average long-run inflation expectations. We find that short term changes in inflation have small effects on average expectations. News about future inflation has larger effects but they are still relatively small. These features of our estimated model provide an explanation for why the anchoring and subsequent de-anchoring of average inflation expectations over the period 1991 to 2020 were long lasting episodes. We use our estimated model to investigate the degree of inflation overshooting necessary to re-anchor average long term inflation expectations going forward from 2021Q3. We find the high inflation readings of mid-2021 must be followed by overshooting generally at the high end of Fed projections to re-anchor average inflation expectations to pre-Great Recession levels.
+abstract: We estimate a model of individual long-run inflation expectations when inflation follows a
+trend-cycle time series process with panel data from the U.S. Survey of Professional Forecasters.
+We use our model to study average long-run expectations when individual forecasters know
+the inflation process, observe inflation and receive common and idiosyncratic signals about
+long-run inflation. We find coordination of sentiments around the inflation target prevented
+expectations from becoming unanchored in the face of inflation running persistently below
+target in the 2010s. We apply our model to study the case of a U.S. central banker setting
+policy in December 2015 when inflation had been running below target for many years, and
+in December 2022 when it had been running very hot for a year and a half. We find that if
+the projections from the Fed’ December Summary of Economic Projections were realized they
+would be inconsistent with preventing long-run inflation expectations from become unanchored.
+This is so even with sentiments coordinated in a manner consistent with their historical
+behavior. In the most recent episode we find that the common signal is relatively imprecise
+and so it is even harder for sentiments about long-run inflation to be coordinated.
 
 
 # Summary. An optional shortened abstract.
@@ -30,7 +43,7 @@ tags:
 
 
 links: 
-- name: Updated draft coming soon
+- name: Pdf
   # url: publication/FMR/FMR_draft.pdf
 url_pdf: 
 url_code: ''
