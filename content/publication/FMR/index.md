@@ -44,7 +44,7 @@ tags:
 
 
 links: 
-- name: Pdf
+- name: Draft
   # url: publication/FMR/FMR_draft.pdf
 url_pdf: 
 url_code: ''
