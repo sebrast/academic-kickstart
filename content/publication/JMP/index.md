@@ -28,8 +28,8 @@ tags:
 
 
 links: 
-- name: Draft
-  url: publication/JMP/Rast_JMP.pdf
+- name: Revised draft coming soon
+#  url: publication/JMP/Rast_JMP.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
