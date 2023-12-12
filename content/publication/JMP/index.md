@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: This paper studies the effect of different types of monetary policy announcements on household inflation expectations based on micro data from a survey of German households. As unique feature, interviews of the survey were conducted both shortly before and after monetary policy events. This timing provides a natural experiment to identify the immediate effects of policy announcements on household inflation expectations. In contrast to most existing studies, the availability of the survey over a period of 15 years also allows me to exploit the time-series dimension to estimate how policy announcements affect household inflation expectations over the medium-term. I find that policy rate announcements lead to quick and significant adjustments in household inflation expectations with the effect peaking after half a year. Announcements about forward guidance and quantitative easing, on the other hand, have only small and delayed effects. My results suggest that monetary policy announcements can influence household expectations but further improvements in communication seem to be necessary to reach the general public more effectively. In particular, in an environment where policy rates are constrained by the effective lower bound, it may be very hard for central banks to influence household expectations. 
+abstract: This paper studies the effect of different types of monetary policy announcements on household inflation expectations based on micro data from a survey of German households. As a key feature, interviews of the survey were conducted both shortly before and after monetary policy events. This timing provides a natural experiment to identify the immediate effects of policy announcements on household inflation expectations. The availability of the survey over a period of 15 years further allows me to exploit the time-series dimension to estimate the medium-term effects of policy announcements. Policy rate announcements lead to quick and significant adjustments in household inflation expectations. Announcements about forward guidance and quantitative easing, by contrast, have no or only smaller and delayed effects.
 
 
 # Summary. An optional shortened abstract.
@@ -28,7 +28,7 @@ tags:
 
 
 links: 
-- name: Revised draft coming soon
+- name: Draft
   url: publication/JMP/Rast_draftDec23.pdf
 url_pdf: 
 url_code: ''
