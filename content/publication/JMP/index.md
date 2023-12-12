@@ -29,7 +29,7 @@ tags:
 
 links: 
 - name: Revised draft coming soon
-  url: publication/JMP/Rast_JMP.pdf
+  url: publication/JMP/Rast_draftDec23.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
