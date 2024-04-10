@@ -20,14 +20,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: Professional forecasters are affected by
-common persistence bias and overconfidence in private information and these two
-deviations from rationality allow the model to account for the sluggish dynamics of
-expectations and the large and persistent disagreement in the SPF. Expectations respond
-negligibly to short-term changes in inflation and become less coordinated during the
-two zero-lower-bound episodes. At the end of 2022, the model correctly predicts that
-de-anchoring of US inflation expectations would not occur if inflation fell in 2023 as
-quickly as it actually did. 
+abstract: Professional forecasters are affected by common persistence bias and overconfidence in private information and these two deviations from rationality allow the model to account for the sluggish dynamics of expectations and the large and persistent disagreement in the SPF. Expectations respond negligibly to short-term changes in inflation and become less coordinated during the two zero-lower-bound episodes. At the end of 2022, the model correctly predicts that de-anchoring of US inflation expectations would not occur if inflation fell in 2023 as quickly as it actually did. 
 
 # Summary. An optional shortened abstract.
 summary: 
