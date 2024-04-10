@@ -28,8 +28,7 @@ expectations and the large and persistent disagreement in the SPF. Expectations 
 negligibly to short-term changes in inflation and become less coordinated during the
 two zero-lower-bound episodes. At the end of 2022, the model correctly predicts that
 de-anchoring of US inflation expectations would not occur if inflation fell in 2023 as
-quickly as it actually did. 
-
+quickly as it actually did.
 
 
 # Summary. An optional shortened abstract.
