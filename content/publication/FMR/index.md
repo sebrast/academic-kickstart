@@ -20,7 +20,11 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: XXX 
+abstract: We estimate a model of long-run inflation expectations using panel data from the
+US Survey of Professional Forecasters (SPF). Professional forecasters are affected by
+common persistence bias and overconfidence in private information and these two
+deviations from rationality allow the model to account for the sluggish dynamics of
+expectations and the large and persistent disagreement in the SPF. 
 
 # Summary. An optional shortened abstract.
 summary: 
