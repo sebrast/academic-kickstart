@@ -4,7 +4,7 @@ authors:
 - Jonas Fisher
 - Leonardo Melosi
 - admin
-date: "2023-03-30T00:00:00Z"
+date: "2024-02-30T00:00:00Z"
 doi: ""
 featured: false
 
@@ -20,7 +20,15 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We estimate a model of individual long-run inflation expectations when inflation follows a trend-cycle time series process with panel data from the U.S. Survey of Professional Forecasters. We use our model to study average long-run expectations when individual forecasters know the inflation process, observe inflation and receive common and idiosyncratic signals about long-run inflation. We find coordination of sentiments around the inflation target prevented expectations from becoming unanchored in the face of inflation running persistently below target in the 2010s. We apply our model to study the case of a U.S. central banker setting policy in December 2015 when inflation had been running below target for many years, and in December 2022 when it had been running very hot for a year and a half. We find that if the projections from the Fed’ December Summary of Economic Projections were realized they would be inconsistent with preventing long-run inflation expectations from become unanchored. This is so even with sentiments coordinated in a manner consistent with their historical behavior. In the most recent episode we find that the common signal is relatively imprecise and so it is even harder for sentiments about long-run inflation to be coordinated. 
+abstract: We estimate a model of long-run inflation expectations using panel data from the
+US Survey of Professional Forecasters (SPF). Professional forecasters are affected by
+common persistence bias and overconfidence in private information and these two
+deviations from rationality allow the model to account for the sluggish dynamics of
+expectations and the large and persistent disagreement in the SPF. Expectations respond
+negligibly to short-term changes in inflation and become less coordinated during the
+two zero-lower-bound episodes. At the end of 2022, the model correctly predicts that
+de-anchoring of US inflation expectations would not occur if inflation fell in 2023 as
+quickly as it actually did. 
 
 
 
