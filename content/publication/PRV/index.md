@@ -32,8 +32,9 @@ tags:
 
 
 links: 
-- name: Draft 
-url_pdf: publication/PRV/PRV_draftMarch24.pdf
+- name: Draft
+  url: publication/PRV/PRV_draftMarch24.pdf
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
