@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We identify innovations to trend inflation (rather than to inflation) using a standard trend-cycle model to investigate their aggregate and distributional effects. 
+abstract: We identify innovations to trend inflation (rather than to inflation) using a standard trend-cycle model to investigate their aggregate and distributional effects. These innovations generate a persistent and sizable contraction in economic activity and are regressive. They harm poor households through the income and expenditure channels and benefit them through the asset holdings channel, and less so through the revaluation channel.  
 
 
 # Summary. An optional shortened abstract.
