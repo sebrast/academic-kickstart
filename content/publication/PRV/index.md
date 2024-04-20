@@ -22,7 +22,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We identify innovations to trend inflation (rather than to inflation) using a standard trend-cycle model to investigate their aggregate and distributional effects. These innovations generate a persistent and sizable contraction in economic activity and are regressive. They harm poor households through the income and expenditure channels and benefit them through the asset holdings channel, and less so through the revaluation channel. We uncover a new operative channel for regressive trend inflation, the liability channel, which is claimed to be very relevant: rich households raise their liabilities in order to smooth their consumption and reduce their real debt burden in the long run. Finally, we use an IV approach to extract trend inflation shocks driven by: (i) oil supply news; (ii) monetary policy; and (iii) tax changes. Irrespective of the source, trend inflation shocks turn out to be regressive.
+abstract: We identify innovations to trend inflation (rather than to inflation) using a standard trend-cycle model to investigate their aggregate and distributional effects. 
 
 
 # Summary. An optional shortened abstract.
