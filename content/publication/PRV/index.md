@@ -1,5 +1,5 @@
 ---
-title: "Uncovering the heterogenous effects of news shocks to underlying inflation"
+title: "Regressive Trend Inflation"
 authors:
 - Evi Pappa
 - admin
@@ -22,11 +22,11 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We identify in a SVAR shocks that best explain future movements in different measures of underlying inflation over a five-year horizon and label them as news augmented  shocks to underlying inflation. Independently of the measure used, such shocks raise the nominal rate and inflation persistently, while they induce mild and short-lived increases in economic activity. The extracted inflation shocks have differential distributional effects. They increase significantly and persistently the consumption of mortgagors and home owners. Differently from the traditional monetary policy disturbances, news augmented shocks to underlying inflation induce a positive wealth effect for mortgagors and home owners, driven by a reduction in the real mortgage payments and a persistent increase in real house prices that they induce. 
+abstract: We identify innovations to trend inflation (rather than to inflation) using a standard trend-cycle model to investigate their aggregate and distributional effects. These innovations generate a persistent and sizable contraction in economic activity and are regressive. They harm poor households through the income and expenditure channels and benefit them through the asset holdings channel, and less so through the revaluation channel. We uncover a new operative channel for regressive trend inflation, the liability channel, which is claimed to be very relevant: rich households raise their liabilities in order to smooth their consumption and reduce their real debt burden in the long run. Finally, we use an IV approach to extract trend inflation shocks driven by: (i) oil supply news; (ii) monetary policy; and (iii)) tax changes. Irrespective of the source, trend inflation shocks turn out to be regressive.
 
 
 # Summary. An optional shortened abstract.
-summary: We identify in a SVAR shocks that best explain future movements in different measures of underlying inflation over a five-year horizon and label them as news augmented  shocks to underlying inflation. Independently of the measure used, such shocks raise the nominal rate and inflation persistently, while they induce mild and short-lived increases in economic activity. The extracted inflation shocks have differential distributional effects. They increase significantly and persistently the consumption of mortgagors and home owners. Differently from the traditional monetary policy disturbances, news augmented shocks to underlying inflation induce a positive wealth effect for mortgagors and home owners, driven by a reduction in the real mortgage payments and a persistent increase in real house prices that they induce. 
+summary: 
 
 tags: 
 
