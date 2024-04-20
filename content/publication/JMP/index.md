@@ -29,7 +29,7 @@ tags:
 
 links: 
 - name: Draft
-  url: publication/JMP/Rast_draftDec23.pdf
+  url: publication/JMP/Rast_draftApril24.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
