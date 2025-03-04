@@ -4,7 +4,7 @@ authors:
 - Jonas Fisher
 - Leonardo Melosi
 - admin
-date: "2024-02-28T00:00:00Z"
+date: "2025-03-04T00:00:00Z"
 doi: ""
 featured: false
 
@@ -20,7 +20,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We estimate a model of long-run inflation expectations using panel data from the US Survey of Professional Forecasters (SPF). Professional forecasters are affected by common persistence bias and overconfidence in private information and these two deviations from rationality allow the model to account for the sluggish dynamics of expectations and the large and persistent disagreement in the SPF. Expectations respond negligibly to short-term changes in inflation and become less coordinated during the two zero-lower-bound episodes. At the end of 2022, the model correctly predicts that de-anchoring of US inflation expectations would not occur if inflation fell in 2023 as quickly as it actually did. 
+abstract: Professional forecasters' long-run inflation expectations overreact to news and exhibit persistent, predictable biases in forecast errors. A model incorporating overconfidence in private information and a persistent expectations bias - which generates persistent forecast errors across most forecasters - accounts for these two features of the data, offering a valuable tool for studying long-run inflation expectations. Our analysis highlights substantial, time-varying heterogeneity in forecasters' responses to public information, with sensitivity declining across all forecasters when monetary policy is constrained by the effective lower bound. The model provides a framework to evaluate whether policymakers’ communicated inflation paths are consistent with anchored long-run expectations. 
 
 # Summary. An optional shortened abstract.
 summary: 
