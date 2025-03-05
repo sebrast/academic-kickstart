@@ -32,7 +32,7 @@ links:
 - name: Draft
   url: publication/FMR/FMR_draft.pdf
 - name: CEPR
-  url: "https://cepr.org/system/files/publication-files/DP19991"
+  url: "https://cepr.org/publications/dp19991"
 url_pdf: 
 url_code: ''
 url_dataset: ''
