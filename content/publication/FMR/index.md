@@ -33,6 +33,8 @@ links:
   url: publication/FMR/FMR_draft.pdf
 - name: CEPR
   url: "https://cepr.org/publications/dp19991"
+  - name: Slides
+  url: publication/FMR/FMR_slides_Rast.pdf
 url_pdf: 
 url_code: ''
 url_dataset: ''
